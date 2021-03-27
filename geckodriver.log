@@ -1,0 +1,858 @@
+1616780814855	geckodriver	INFO	Listening on 127.0.0.1:58334
+1616780817935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofile7krmGJ"
+1616780821684	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: SearchService: "maybeReloadEngines failed" ({})
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616780844842	geckodriver	INFO	Listening on 127.0.0.1:58383
+1616780847759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileQWfgtu"
+1616780849682	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616780856596	Marionette	INFO	Listening on port 58391
+1616780857120	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6864, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616780880138	Marionette	INFO	Stopped listening on port 58391
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616780885033	geckodriver	INFO	Listening on 127.0.0.1:58439
+1616780888091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofile2fwWsX"
+1616780888997	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616780895687	Marionette	INFO	Listening on port 58447
+1616780896115	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616780909879	Marionette	INFO	Stopped listening on port 58447
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616780923643	geckodriver	INFO	Listening on 127.0.0.1:58497
+1616780926669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileksHtcs"
+1616780927565	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616780934075	Marionette	INFO	Listening on port 58505
+1616780934629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616780955404	Marionette	INFO	Stopped listening on port 58505
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616781388577	geckodriver	INFO	Listening on 127.0.0.1:58631
+1616781391619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileabEp4w"
+1616781392534	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616781399017	Marionette	INFO	Listening on port 58639
+1616781399214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616781416862	Marionette	INFO	Stopped listening on port 58639
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616787068765	geckodriver	INFO	Listening on 127.0.0.1:49420
+1616787071911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileA2xbeV"
+1616787075421	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616787090211	Marionette	INFO	Listening on port 49428
+1616787090846	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:153:9
+setOptions@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:153:9
+setOptions@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:153:9
+setOptions@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:153:9
+setOptions@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+JavaScript error: undefined, line 0: Error: Permission denied to access property "document" on cross-origin object
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:153:9
+setOptions@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:153:9
+setOptions@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:153:9
+setOptions@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:153:9
+setOptions@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+JavaScript error: undefined, line 0: Error: Permission denied to access property "document" on cross-origin object
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:153:9
+setOptions@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:153:9
+setOptions@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:153:9
+setOptions@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:153:9
+setOptions@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+JavaScript error: undefined, line 0: Error: Permission denied to access property "document" on cross-origin object
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:153:9
+setOptions@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:153:9
+setOptions@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:153:9
+setOptions@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:153:9
+setOptions@moz-extension://219957db-f5df-4ccb-8978-c1b5c88dbbac/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+JavaScript error: undefined, line 0: Error: Permission denied to access property "document" on cross-origin object
+1616787260957	Marionette	INFO	Stopped listening on port 49428
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616787266851	geckodriver	INFO	Listening on 127.0.0.1:49586
+1616787278755	geckodriver	INFO	Listening on 127.0.0.1:49594
+1616787281772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofilez3ScoK"
+1616787283799	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616787290940	Marionette	INFO	Listening on port 49602
+1616787291216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616787387116	Marionette	INFO	Stopped listening on port 49602
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616787390815	geckodriver	INFO	Listening on 127.0.0.1:49737
+1616787393657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofile8BQhKh"
+1616787395634	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616787404049	Marionette	INFO	Listening on port 49745
+1616787404564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fundingchoicesmessages.google.com/f/AGSKWxVmIsqmXdGL18AYyvct_mUJeq2qme54awsKrARzBSMvHZDQGU3k-X5yfloVHuQuLKCydL078AhaLJhLCvhY8V0qVd2Gq7CljuJnFXjRX4zgT0oj6BXvXcS-A0KGc6zdBd7vylRyLI98bdKv1UvA2pPUypC4xe-ZoNMHBSKjvtxOnUHMWq7Vm-0lj0c0?fccs=W251bGwsW1tdLFtdXSxbIkNQRHJpNkJQRHJpNkJFc0FCQkJHQlNDb0FQX0FBR19BQUFJd0duSlR4RDdGSUdsQ1NHNTRjcXNRRUFBVFFFQ3NBd0FCQkFDQkFHQUJBQUtBSUJRQ2trQVlCQVNnQkFBQ0lBQUFJQlpCQUFBa0FFZ0FBUUFCUUFBQUFCQUlBQUFFQUFBSUlBQUFBQUFBQUFBSUFBQUNBQUFBQUFBSUFBQUFBQUFBa1FnQUFJSUFBaEFBQkFBUU5PQUJBRlNLQUFDRWtNQ1FZRklnQUFBQWdBQVlBQUFBQUFFQ0FNQUFBQUFBUUFnRUlJQUFBQUFBQUFBQUFBQUFRQ3dDQUFBQUFKQUFBQUFDZ0FBQUFDQVFBQUFBQUFBUUFBQUFBQUFBQUFBQUFBQUVBQUFBQUFBQUFBQUFBQUFCQWdBQUFBQUFBQ0FBQUFBZ0FBIiwiMX4yNjY0Ljg2Ny4xNzE2LjQ2LjEzNzUuMjIwMi4xMTg4LjU3NC42Ni43MC4xNzMyLjExNDMuOTMuMTMxNy44NjQuMjUyNi44NzQuNTcxLjIxMDkuMTA4LjEyMi4xODc4LjQ0MC4xMDk3LjI3NzIuMjI1My4zMTcuMjY4Ny4xODQuMTI3Ni44MTcuMTk2LjE5NjMuMTk5OC4xNjEzLjIwNzIuMjQxLjE0OS4zMzguMjUzLjIwMTMuMjU5LjIxODYuMTAyNy4zMjIuMTQ0OS4xMjA1LjM3MS4xNjk5LjM5NC4xNDE1LjE5MjguNDE1LjE3MjEuMTEyNi4xODcwLjE0MTkuNDQ4LjIwODguMTkxMS4zOTMuMjcyOS40ODYuMTU1OC40OTUuNDk0LjE2OTcuMjQ4MS4yNjc3LjE4MDAuMTg4OS41ODQuMzIzIl0sbnVsbCxudWxsLDIsWzE2MTY3ODc0MTksNTY4MDAwMDAwXSxudWxsLG51bGwsbnVsbCxbbnVsbCxbNyw4XSxudWxsLDEsbnVsbCwiYmciXV0, line 281: Error: B`
+1616787422647	Marionette	INFO	Stopped listening on port 49745
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616787447896	geckodriver	INFO	Listening on 127.0.0.1:49870
+1616787450926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileTatN1K"
+1616787452721	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1616787460309	Marionette	INFO	Listening on port 49878
+1616787460522	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: "Inspector destroyed while executing onReflow callback"
+1616787557109	Marionette	INFO	Stopped listening on port 49878
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616787560138	geckodriver	INFO	Listening on 127.0.0.1:50016
+1616787563116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileLHo92w"
+1616787565308	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616787571988	Marionette	INFO	Listening on port 50024
+1616787572203	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616787597119	Marionette	INFO	Stopped listening on port 50024
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616787599684	geckodriver	INFO	Listening on 127.0.0.1:50151
+1616787602684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileKlzVGp"
+1616787603568	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616787609544	Marionette	INFO	Listening on port 50159
+1616787610114	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616787637276	Marionette	INFO	Stopped listening on port 50159
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616787780183	geckodriver	INFO	Listening on 127.0.0.1:50307
+1616787783186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofilev4fWu9"
+1616787784827	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616787792038	Marionette	INFO	Listening on port 50315
+1616787792511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616787815332	Marionette	INFO	Stopped listening on port 50315
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616787848341	geckodriver	INFO	Listening on 127.0.0.1:50503
+1616787851346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofilepUvyy8"
+1616787853351	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616787859124	Marionette	INFO	Listening on port 50511
+1616787859630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616787901213	Marionette	INFO	Stopped listening on port 50511
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616787902490	geckodriver	INFO	Listening on 127.0.0.1:50649
+1616787905455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofilexL6coL"
+1616787907439	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616787913215	Marionette	INFO	Listening on port 50657
+1616787913863	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616787942749	Marionette	INFO	Stopped listening on port 50657
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616788103735	geckodriver	INFO	Listening on 127.0.0.1:50879
+1616788106694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofilekNEGzc"
+1616788108953	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616788116456	Marionette	INFO	Listening on port 50887
+1616788116973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616788146818	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Parent 5140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616788227638	Marionette	INFO	Stopped listening on port 50887
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616788283039	geckodriver	INFO	Listening on 127.0.0.1:51301
+1616788286037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofile4Z5AO8"
+1616788286881	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616788292871	Marionette	INFO	Listening on port 51309
+1616788294632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1616788340206	Marionette	INFO	Stopped listening on port 51309
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616788451382	geckodriver	INFO	Listening on 127.0.0.1:51667
+1616788454385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofilexNZsC4"
+1616788455180	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616788462090	Marionette	INFO	Listening on port 51675
+1616788462617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 3548, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616788557821	Marionette	INFO	Stopped listening on port 51675
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616788755170	geckodriver	INFO	Listening on 127.0.0.1:51946
+1616788758076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileLGBSHp"
+1616788760256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+1616788767416	Marionette	INFO	Listening on port 51954
+1616788767578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616788787751	Marionette	INFO	Stopped listening on port 51954
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616788812694	geckodriver	INFO	Listening on 127.0.0.1:52151
+1616788815718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileJlyGNG"
+1616788816554	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616788823406	Marionette	INFO	Listening on port 52159
+1616788824101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616788839957	Marionette	INFO	Stopped listening on port 52159
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616788868070	geckodriver	INFO	Listening on 127.0.0.1:52289
+1616788871085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileTBCwQM"
+1616788871936	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616788878479	Marionette	INFO	Listening on port 52297
+1616788879221	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4744, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 4744, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 4744, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616789047487	Marionette	INFO	Stopped listening on port 52297
+1616789049241	geckodriver	INFO	Listening on 127.0.0.1:52498
+1616789052263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileUkCPeH"
+1616789054351	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616789060305	Marionette	INFO	Listening on port 52506
+1616789061541	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5824, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616789268471	Marionette	INFO	Stopped listening on port 52506
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+sion
+1616789268352	Marionette	INFO	Stopped listening on port 52812
+
+###!!! [Child][RunMessage] Error: Channel closing: too 1616789269325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofile92rklB"
+1616789271508	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616789277867	Marionette	INFO	Listening on port 53115
+1616789278347	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616789357320	Marionette	INFO	Stopped listening on port 53115
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616789458802	geckodriver	INFO	Listening on 127.0.0.1:53466
+1616789461825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofiletlqicg"
+1616789463140	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616789471102	Marionette	INFO	Listening on port 53474
+1616789471627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616789482349	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+1616789511183	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616789550994	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+1616789788175	geckodriver	INFO	Listening on 127.0.0.1:54165
+1616789791131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofilejrYzi5"
+1616789793121	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616789799940	Marionette	INFO	Listening on port 54173
+1616789800470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616789869015	geckodriver	INFO	Listening on 127.0.0.1:54398
+1616789872016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileqkC47F"
+1616789873662	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616789879433	Marionette	INFO	Listening on port 54406
+1616789879825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1616789924999	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616789931853	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616789944804	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616790128554	geckodriver	INFO	Listening on 127.0.0.1:54785
+1616790131508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileFcLzJq"
+1616790133604	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616790139960	Marionette	INFO	Listening on port 54793
+1616790140550	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4628, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616790186809	Marionette	INFO	Stopped listening on port 54793
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616790241757	geckodriver	INFO	Listening on 127.0.0.1:54844
+1616790244777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofile1Cmgfe"
+1616790245600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616790251642	Marionette	INFO	Listening on port 54852
+1616790252073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616790278355	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616790352775	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616790372757	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 4180, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00CE,name=PContent::Msg_SetGeolocationHigherAccuracy) Closed channel: cannot send/recv
+
+1616869910612	geckodriver	INFO	Listening on 127.0.0.1:49238
+1616869913556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofile2Nr2RE"
+1616869926528	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616869947002	Marionette	INFO	Listening on port 49246
+1616869947666	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616870038218	Marionette	INFO	Stopped listening on port 49246
+1616870052405	geckodriver	INFO	Listening on 127.0.0.1:49443
+1616870055395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofile9TRAUD"
+1616870056425	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616870064728	Marionette	INFO	Listening on port 49451
+1616870065280	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4228, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616870089338	Marionette	INFO	Stopped listening on port 49451
+1616870173605	geckodriver	INFO	Listening on 127.0.0.1:49753
+1616870176596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileqdairR"
+1616870177431	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616870184065	Marionette	INFO	Listening on port 49761
+1616870184579	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/addonManager.js, line 256: NS_ERROR_NOT_INITIALIZED
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:153:9
+setOptions@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:153:9
+setOptions@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:153:9
+setOptions@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:153:9
+setOptions@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:153:9
+setOptions@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:153:9
+setOptions@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:153:9
+setOptions@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:153:9
+setOptions@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:153:9
+setOptions@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:153:9
+setOptions@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: SecurityError: Permission denied to access property "document" on cross-origin object undefined 153
+[[Exception stack
+activate@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:153:9
+setOptions@moz-extension://523ee9cf-78ea-4021-a375-38fcc89fa2f7/inspect.js:61:12
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:599:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+[Parent 2772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616870363859	Marionette	INFO	Stopped listening on port 49761
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JYG"
+1616870316186	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616870325585	Marionette	INFO	Listening on port 49979
+1616870325758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 5524, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616870358006	Marionette	INFO	Stopped listening on port 49979
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616870386003	geckodriver	INFO	Listening on 127.0.0.1:50189
+1616870388993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileKa6EI4"
+1616870391295	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616870397569	Marionette	INFO	Listening on port 50197
+1616870397826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616870424582	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616870432533	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616870494419	geckodriver	INFO	Listening on 127.0.0.1:50458
+1616870497369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileQg4his"
+1616870499426	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616870505229	Marionette	INFO	Listening on port 50466
+1616870505560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616870733360	geckodriver	INFO	Listening on 127.0.0.1:50852
+1616870736170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofile79K32Q"
+1616870738494	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616870759623	geckodriver	INFO	Listening on 127.0.0.1:50879
+1616870762633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofilerv42d3"
+1616870763543	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616870769515	Marionette	INFO	Listening on port 50887
+1616870770106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616870806273	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616870806275	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+1616870850282	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616870859279	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616870859280	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616870874315	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616870909302	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616870911428	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616870937560	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616870937561	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616870942312	geckodriver	INFO	Listening on 127.0.0.1:51615
+1616870945161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofile6Bx9OV"
+1616870947547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616870955355	Marionette	INFO	Listening on port 51625
+1616870955818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616870974113	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616870987345	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616872315028	geckodriver	INFO	Listening on 127.0.0.1:52003
+1616872317939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofiledAoKM3"
+1616872320008	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616872325857	Marionette	INFO	Listening on port 52011
+1616872326002	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 5056, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1616872579652	geckodriver	INFO	Listening on 127.0.0.1:52269
+1616872582674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofile50h0g4"
+1616872583566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616872590460	Marionette	INFO	Listening on port 52277
+1616872590915	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
