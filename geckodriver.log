@@ -856,3 +856,319 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1616872590460	Marionette	INFO	Listening on port 52277
 1616872590915	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: uncaught exception: undefined
+1616956456000	geckodriver	INFO	Listening on 127.0.0.1:49266
+1616956459162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileP6BQdd"
+1616956462870	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616956477968	Marionette	INFO	Listening on port 49274
+1616956479026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/sw6f250bfbe425abecb8320e3a1d095388.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616956585953	Marionette	INFO	Stopped listening on port 49274
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616956596482	geckodriver	INFO	Listening on 127.0.0.1:49414
+1616956599481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofilemumOzp"
+1616956601632	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616956608012	Marionette	INFO	Listening on port 49422
+1616956608489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/sw6f250bfbe425abecb8320e3a1d095388.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616956618620	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.olx.bg/d/ad/retro-motor-zif-77-CID618-ID7xtPh.html line 14 > injectedScript, line 54: TypeError: can't access property "innerHTML", container is null
+1616956629083	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616956632932	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: can't access property "DomainData", s is undefined
+1616956637499	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: can't access property "DomainData", s is undefined
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+JavaScript error: https://www.olx.bg/d/ad/120-70-17-bridgestone-dot-2016-CID360-ID8fvOi.html line 14 > injectedScript, line 54: TypeError: can't access property "innerHTML", container is null
+JavaScript error: https://www.olx.bg/app/static/js/runtime~main.33cb10f0b.js, line 1: ChunkLoadError: Loading chunk 66572 failed.
+(error: https://www.olx.bg/app/static/js/olxeuweb.toaster.dialog.71b1535df.chunk.js)
+JavaScript error: https://www.olx.bg/app/static/js/runtime~main.33cb10f0b.js, line 1: ChunkLoadError: Loading chunk 66572 failed.
+(error: https://www.olx.bg/app/static/js/olxeuweb.toaster.dialog.71b1535df.chunk.js)
+JavaScript error: https://www.olx.bg/app/static/js/runtime~main.33cb10f0b.js, line 1: ChunkLoadError: Loading chunk 77574 failed.
+(error: https://www.olx.bg/app/static/js/olxeuweb.ad.card.automotive.params.81045f6e2.chunk.js)
+JavaScript error: https://www.olx.bg/app/static/js/runtime~main.33cb10f0b.js, line 1: ChunkLoadError: Loading chunk 27650 failed.
+(error: https://www.olx.bg/app/static/js/olxeuweb.app~startupListeners.a56769f85.chunk.js)
+JavaScript error: https://www.olx.bg/app/static/js/runtime~main.33cb10f0b.js, line 1: ChunkLoadError: Loading chunk 27650 failed.
+(error: https://www.olx.bg/app/static/js/olxeuweb.app~startupListeners.a56769f85.chunk.js)
+JavaScript error: https://www.olx.bg/app/static/js/runtime~main.33cb10f0b.js, line 1: ChunkLoadError: Loading chunk 63586 failed.
+(error: https://www.olx.bg/app/static/js/olxeuweb.app~serviceWorkerHelper.866b08dd8.chunk.js)
+JavaScript error: https://www.olx.bg/app/static/js/runtime~main.33cb10f0b.js, line 1: ChunkLoadError: Loading chunk 63586 failed.
+(error: https://www.olx.bg/app/static/js/olxeuweb.app~serviceWorkerHelper.866b08dd8.chunk.js)
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616956653036	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.olx.bg/d/ad/120-70-17-bridgestone-dot-2018-kato-nova-CID360-ID8fYb2.html line 14 > injectedScript, line 54: TypeError: can't access property "innerHTML", container is null
+JavaScript error: https://www.olx.bg/app/static/js/runtime~main.33cb10f0b.js, line 1: ChunkLoadError: Loading chunk 66572 failed.
+(error: https://www.olx.bg/app/static/js/olxeuweb.toaster.dialog.71b1535df.chunk.js)
+JavaScript error: https://www.olx.bg/app/static/js/runtime~main.33cb10f0b.js, line 1: ChunkLoadError: Loading chunk 66572 failed.
+(error: https://www.olx.bg/app/static/js/olxeuweb.toaster.dialog.71b1535df.chunk.js)
+JavaScript error: https://www.olx.bg/app/static/js/runtime~main.33cb10f0b.js, line 1: ChunkLoadError: Loading chunk 77574 failed.
+(error: https://www.olx.bg/app/static/js/olxeuweb.ad.card.automotive.params.81045f6e2.chunk.js)
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616956673411	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.olx.bg/app/static/js/runtime~main.33cb10f0b.js, line 1: ChunkLoadError: Loading chunk 77574 failed.
+(error: https://www.olx.bg/app/static/js/olxeuweb.ad.card.automotive.params.81045f6e2.chunk.js)
+1616956876617	geckodriver	INFO	Listening on 127.0.0.1:49658
+1616956879574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofilekmb9lr"
+1616956881765	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616956887267	Marionette	INFO	Listening on port 49666
+1616956887717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616956908834	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616956987901	geckodriver	INFO	Listening on 127.0.0.1:49828
+1616956990914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileoDAyEK"
+1616956992623	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616956999005	Marionette	INFO	Listening on port 49836
+1616956999417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/sw6f250bfbe425abecb8320e3a1d095388.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+[Parent 5652, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5652, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616957190661	Marionette	INFO	Stopped listening on port 49836
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+095388.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://www.olx.bg/d/ad/motor-50-kubikov-CID360-ID8tfN4.html line 14 > injectedScript, line 54: TypeError: can't access property "innerHTML", container is null
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1188"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1188:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:631:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:740:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1188, column: 0
+console.error: ({})
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+console.error: "Error while calling actor 'layout's method 'getGrids'" "can't access property \"getElementsWithGrid\", node is null"
+console.error: (new TypeError("can't access property \"getElementsWithGrid\", node is null", "resource://devtools/server/actors/layout.js", 502))
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+[Parent 4508, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616957666187	Marionette	INFO	Stopped listening on port 49971
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 50372
+1616957435607	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/sw6f250bfbe425abecb8320e3a1d095388.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616957447829	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: can't access property "appendChild", this.selector is null
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616957458284	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: can't access property "DomainData", s is undefined
+1616957458517	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.olx.bg/d/ad/retro-motor-zif-77-CID618-ID7xtPh.html line 14 > injectedScript, line 54: TypeError: can't access property "innerHTML", container is null
+JavaScript error: https://www.olx.bg/app/static/js/runtime~main.33cb10f0b.js, line 1: ChunkLoadError: Loading chunk 66572 failed.
+(error: https://www.olx.bg/app/static/js/olxeuweb.toaster.dialog.71b1535df.chunk.js)
+JavaScript error: https://www.olx.bg/app/static/js/runtime~main.33cb10f0b.js, line 1: ChunkLoadError: Loading chunk 66572 failed.
+(error: https://www.olx.bg/app/static/js/olxeuweb.toaster.dialog.71b1535df.chunk.js)
+JavaScript error: https://www.olx.bg/app/static/js/runtime~main.33cb10f0b.js, line 1: ChunkLoadError: Loading chunk 77574 failed.
+(error: https://www.olx.bg/app/static/js/olxeuweb.ad.card.automotive.params.81045f6e2.chunk.js)
+1616957494290	geckodriver	INFO	Listening on 127.0.0.1:50520
+1616957497303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofile7UVRPc"
+1616957499396	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616957504679	Marionette	INFO	Listening on port 50528
+1616957505291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/sw6f250bfbe425abecb8320e3a1d095388.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.olx.bg/d/ad/motor-50-kubikov-CID360-ID8tfN4.html line 14 > injectedScript, line 54: TypeError: can't access property "innerHTML", container is null
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616957531802	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: can't access property "DomainData", s is undefined
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616957544816	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.gstatic.com/recaptcha/releases/5mNs27FP3uLBP3KBPib88r1g/recaptcha__bg.js, line 717: SecurityError: Permission denied to access property "a-g3aq4hktcrdl" on cross-origin object
+1616957559648	geckodriver	INFO	Listening on 127.0.0.1:50707
+1616957562300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileNu04zb"
+1616957564999	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616957572708	Marionette	INFO	Listening on port 50715
+1616957574979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/sw6f250bfbe425abecb8320e3a1d095388.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: can't access property "DomainData", s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: can't access property "appendChild", this.selector is null
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616957655864	geckodriver	INFO	Listening on 127.0.0.1:50863
+1616957658886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofilekGgutk"
+1616957660396	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616957670434	Marionette	INFO	Listening on port 50871
+1616957670840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/sw6f250bfbe425abecb8320e3a1d095388.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616957772880	geckodriver	INFO	Listening on 127.0.0.1:51012
+1616957775882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofile8y4dfe"
+1616957776802	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616957784888	Marionette	INFO	Listening on port 51020
+1616957785387	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/sw6f250bfbe425abecb8320e3a1d095388.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: can't access property "appendChild", this.selector is null
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616957808661	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: can't access property "DomainData", s is undefined
+JavaScript error: https://www.olx.bg/d/ad/retro-motor-zif-77-CID618-ID7xtPh.html line 14 > injectedScript, line 54: TypeError: can't access property "innerHTML", container is null
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616957817593	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616957817899	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616957879127	geckodriver	INFO	Listening on 127.0.0.1:51170
+1616957882139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofilejXaChI"
+1616957882954	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616957890869	Marionette	INFO	Listening on port 51178
+1616957891111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/sw6f250bfbe425abecb8320e3a1d095388.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616957904806	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616957917377	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: can't access property "DomainData", s is undefined
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: can't access property "appendChild", this.selector is null
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616957960354	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616957963467	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616957976637	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616957993153	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616958007861	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616958147591	geckodriver	INFO	Listening on 127.0.0.1:51478
+1616958150604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofilegpvsar"
+1616958151378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616958156406	Marionette	INFO	Listening on port 51486
+1616958157187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/sw6f250bfbe425abecb8320e3a1d095388.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616958170127	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+1616958174043	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: can't access property "DomainData", s is undefined
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616958831110	geckodriver	INFO	Listening on 127.0.0.1:51708
+1616958834112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileLb6AIy"
+1616958834949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616958839911	Marionette	INFO	Listening on port 51716
+1616958840338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/sw6f250bfbe425abecb8320e3a1d095388.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: can't access property "appendChild", this.selector is null
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616958863787	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: can't access property "DomainData", s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: can't access property "appendChild", this.selector is null
+JavaScript warning: https://static.olx.bg/static/olxbg/packed/swfbd9c3ac1379aff2fab5f3277ca04b7d.js, line 1: unreachable code after return statement
+1616958870315	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.olx.bg/d/ad/motor-50-kubikov-CID360-ID8tfN4.html line 14 > injectedScript, line 54: TypeError: can't access property "innerHTML", container is null
+1616958940409	geckodriver	INFO	Listening on 127.0.0.1:51878
+1616958943434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\8530w\\AppData\\Local\\Temp\\rust_mozprofileGGQ3tO"
+1616958945672	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616958950944	Marionette	INFO	Listening on port 51886
+1616958951241	Marionette	WARN	TLS certificate errors will be ignored for this session
